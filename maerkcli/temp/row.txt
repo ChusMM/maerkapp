@@ -1,0 +1,1 @@
+Locomotora: 4, pasa por el sensor: 5
