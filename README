@@ -1,4 +1,4 @@
-                               *** MAERKAPP ***
+                                *** MAERKAPP ***
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
     	the Free Software Foundation, either version 3 of the License, or
@@ -21,7 +21,7 @@ Embedded Linux BootLoader
 It is required to build a bootloader with consists on a compressed image of the synthesis files along with and Embedded Linux Kernel executable file compiled 
 for PPC440 architecture. This composition must be stored into a compact flash card with two partitions, the first partition contains the bootloader itself, 
 the second one contains a non-volative embedded linux root file system.
-If anyone needs this flasheable bootloader image, please request me and I may try to shared one, it depends on my current situation.
+If anyone needs this flasheable bootloader image, please let me know and I may try to share one, it depends on my current situation.
 --- Instalation Notes
 Please, place maerkserv folder under /home/root/ in the server machine (Virtex 5 FPGA, PowerPC 440 synthetized, Embedded Linux with rootfs).
 Please, place maerkcli folder wherever you want in the client machine.
